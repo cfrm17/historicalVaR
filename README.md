@@ -66,6 +66,10 @@ If number of breaches is 5-9, the VaR system is in Yellow zone
 If number of breaches is 10 or more, the VaR system is in Red zone
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/FiBond.html
+
+https://bitbucket.org/cfrm17/historicalvar/downloads/HistoricalVaR-7.pdf
+
 
