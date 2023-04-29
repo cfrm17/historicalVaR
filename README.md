@@ -69,7 +69,3 @@ If number of breaches is 10 or more, the VaR system is in Red zone
 References:
 
 https://finpricing.com/lib/FiBond.html
-
-https://bitbucket.org/cfrm17/historicalvar/downloads/HistoricalVaR-7.pdf
-
-
